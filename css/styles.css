@@ -11402,6 +11402,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  background-color: #000000;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
